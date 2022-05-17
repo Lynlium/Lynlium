@@ -1,4 +1,4 @@
- <h2>Oi!Eu sou a Michelle, mas pode chamar de Lyn. Faço lives e sites feios. Me siga para conteúdo de qualidade estética duvidosa!</h2>
+ <h2>Oi!Eu sou a Michelle, mas pode chamar de Lyn. No momento, construindo um portifólio!</h2>
 
 <div>
 <a href= "https://github.com/lynlium">
